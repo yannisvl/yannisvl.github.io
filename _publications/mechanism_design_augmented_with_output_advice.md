@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/mechanism_design_augmented_with_output_advice
 excerpt: 'Our paper proposes a mechanism design model augmented with an output prediction and applies it to various problems using a universal error measure in the algorithmic design with predictions setting.'
 date: 2024-06-20
-venue: '36th Neurips'
+venue: '36th Neurips (Spotlight)'
 slidesurl: 'http://academicpages.github.io/files/mechanism_design_augmented_with_output_advice_slides.pptx'
 paperurl: 'https://arxiv.org/pdf/2406.14165'
 citation: 'Christodoulou George, Sgouritsa Alkmini and Vlachos Ioannis (2024). &quot;Mechanism Design Augmented with Output Advice.&quot; <i>arXiv preprint arXiv:2406.14165</i>.'
