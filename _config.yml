@@ -24,7 +24,7 @@ author:
   avatar           : "photo.jpg"
   name             : "Ioannis Vlachos"
   pronouns         : # example: "she/her"  
-  bio              : "2nd year PhD student"
+  bio              : "3rd year PhD student"
   location         : "Athens"
   employer         : "AUEB & Archimedes/Athena RC"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
-  goodreads        : "user/show/168998064-yannis"
+  goodreads        : #"user/show/168998064-yannis"
   google_plus      : # Username
   keybase          : # Username
   instagram        : # Username
